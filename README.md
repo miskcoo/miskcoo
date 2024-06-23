@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/miskcoo">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=miskcoo&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/miskcoo">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=miskcoo&layout=compact" />
+</a>
